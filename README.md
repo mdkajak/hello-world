@@ -1,2 +1,3 @@
 # hello-world
 Woohoo moo on its way
+I enjoy coding, math and science and I hope to learn a lot and be able to help other nerds or soon to be nerds...
